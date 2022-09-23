@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,400&family=Open+Sans:ital,wght@0,300;0,500;1,400&family=Raleway:wght@100&family=Reem+Kufi+Ink&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.head{
+    display: flex;
+    height: 100%;
+    
+}
+
+.image{
+    width: 300px;
+    height: 600px;
+    padding: 50px;
+    background-color: gray;
+    /* text-align: center; */
+    color: white;
+}
+
+.pic{
+    text-align: center;
+}
+
+.info{
+    /* text-align: center; */
+    width: 100%;
+    height: 100%;
+}
+
+.picture{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    border: 2px solid white;
+}
+
+.title{
+    width: 60%;
+    margin: 30px;
+    display: block;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.resumen{
+    width: 60%;
+    margin: 30px;
+    display: block;
+}
+
+.historia{
+    width: 60%;
+    margin: 30px;
+    display: block;
+}
+
+.formacion{
+    width: 60%;
+    margin: 30px;
+    display: block;
+}
+
+.number{
+    margin: 15px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+}
+
+.email{
+    margin: 15px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+}
+
+.email2 a{
+    /* text-decoration: none; */
+    color: white;
+    margin: 15px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+}
+
+.email3{
+    font-family: 'Lato', sans-serif;
+    margin: 30px;
+}
+
+.formacion2{
+    font-family: 'Lato', sans-serif;
+}
+
+.resumen2{
+    font-family: 'Lato', sans-serif;
+}
+
+.city{
+    margin: 15px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+}
+
+.margin{
+    margin-bottom: 15px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.subtitle{
+    margin: 15px;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+}
